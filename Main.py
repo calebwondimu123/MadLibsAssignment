@@ -7,6 +7,7 @@
 # Project Description
 # You will read in multiple entries from the user and store the results in variables
 # You will then insert those variables into the following story to create a MadLib style result
+from xml.dom.minidom import ProcessingInstruction
 
 # A recent survey informs us that one out of every PLURALNOUN1 owns a/an ADJECTIVE1 phone.
 # Fortunately, VERB_ENDING_IN_ING1 over a mobile NOUN1 in recent years has improved ADVERB1.
@@ -21,3 +22,10 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("Hello to my Madworld")
+print("Give me plural noun: ")
+noun = input()
+print(" give me an adjective: ")
+adj1 = input()
+Print("Give me a number: ")
+number = int(input())
