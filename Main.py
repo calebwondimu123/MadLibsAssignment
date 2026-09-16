@@ -21,11 +21,11 @@ from xml.dom.minidom import ProcessingInstruction
 # See https://www.thewordfinder.com/wordlibs/story/41/ for an example.
 #############################################
 
-# THIS IS WHERE YOU CODE
-print("Hello to my Madworld")
-print("Give me plural noun: ")
-noun = input()
-print(" give me an adjective: ")
-adj1 = input()
-Print("Give me a number: ")
-number = int(input())
+# THS IS WHERE YOU CODE
+# Noun = input()Ij1 = input("
+
+print("Hello Welcome Madworld")
+print("Give me plural noun: Dog ")
+print("Give me a number: 2 ")
+Number = input("Big")
+print("Give me a number: 2 ")
